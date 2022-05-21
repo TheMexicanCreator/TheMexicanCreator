@@ -2,8 +2,9 @@
 <h3 align="center">Full Stack Development and Data Analysis</h3>
 
 - 🔭 I’m currently working on **creating new web projects**
+- **Currently working on:** E-commerce type app
 
-- 🌱 I’m currently learning **C/C++, SQL**
+- 🌱 I’m currently learning Firebase Hosting
 
 - 👯 I’m looking to collaborate on **open source projects**
 
