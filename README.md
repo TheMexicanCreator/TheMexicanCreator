@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Roberto 👋🧑‍💻 </h1>
 <h3 align="center">Full Stack Development and Data Analysis</h3>
 
-- 🔭 I’m currently working on **creating new web projects**
+- 🔭 I’m currently working on **creating new web projects**, and I have been doing so since 2018, here I store all of my web development since that year
 - **Currently working on:** E-commerce type app
 
 - 🌱 I’m currently learning Firebase Hosting
