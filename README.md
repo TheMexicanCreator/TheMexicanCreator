@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **creating new web projects**, and I have been doing so since 2018, here I store all of my web development since that year
 - **Currently working on:** E-commerce type app
 
-- 🌱 I’m currently learning Firebase Hosting
+- 🌱 I’m currently learning Firebase Hosting, AWS Hosting
 
 - 👯 I’m looking to collaborate on **open source projects**
 
