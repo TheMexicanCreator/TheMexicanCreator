@@ -2,9 +2,9 @@
 <h3 align="center">Full Stack Development and Data Analysis</h3>
 
 - 🔭 I’m currently working on **creating new web projects**, and I have been doing so since 2018, here I store all of my web development since that year
-- **Currently working on:** E-commerce type app
+- **Currently working on:** CS50 Course
 
-- 🌱 I’m currently learning Firebase and AWS Hosting
+- 🌱 I’m currently learning CS50
 
 - 👯 I’m looking to collaborate on **open source projects**
 
