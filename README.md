@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Development and Data Analysis</h3>
 
 - 🔭 I’m currently working on **creating new web projects**, and I have been doing so since 2018, here I store all of my web development since that year
-- **Currently working on:** CS50 Course
+- **Currently working on:** Tensorflow Course
 
 - 🌱 I’m currently learning Tensorflow
 
