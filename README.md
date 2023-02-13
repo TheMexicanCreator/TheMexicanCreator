@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **finding the best projects to collaborate with**
 
-- 💬 Ask me about **Front-end languages, ReactJS, Python**
+- 💬 Ask me about **Front-end languages, ReactJS, Python, AI**
 
 - 📫 How to reach me **rgarmor@gmail.com**
 
