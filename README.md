@@ -2,15 +2,15 @@
 <h3 align="center">Full Stack Development and Data Analysis</h3>
 
 - 🔭 I’m currently working on **creating new web projects**, and I have been doing so since 2018, here I store all of my web development since that year
-- **Currently working on:** Elements of AI
+- **Currently working on:** Machine Learning
 
-- 🌱 I’m currently learning Elements of AI
+- 🌱 I’m currently learning Machine Learning and Japanese 
 
 - 👯 I’m looking to collaborate on **open source projects**
 
 - 🤝 I’m looking for help with **finding the best projects to collaborate with**
 
-- 💬 Ask me about **Front-end languages, ReactJS, Python, AI**
+- 💬 Ask me about **Front-end languages, ReactJS, Python, AI & ML**
 
 - 📫 How to reach me **rgarmor@gmail.com**
 
