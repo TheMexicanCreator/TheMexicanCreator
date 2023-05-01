@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 🤝 I’m looking for help with **finding the best projects to collaborate with**
+- 🤝 I’m looking for help with **machine learning on Kaggle**
 
 - 💬 Ask me about **Front-end languages, ReactJS, Python, AI & ML**
 
